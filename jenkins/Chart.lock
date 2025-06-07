@@ -1,0 +1,12 @@
+dependencies:
+- name: common
+  repository: oci://registry-1.docker.io/bitnamicharts
+  version: 2.31.1
+- name: gitea
+  repository: https://charts.bitnami.com/bitnami
+  version: 3.2.7
+- name: postgresql
+  repository: https://charts.bitnami.com/bitnami
+  version: 16.7.8
+digest: sha256:560e436f72b16814f827730bce75baa5e47916b7c4997fda1d32dce3f7f639b6
+generated: "2025-06-03T15:35:40.203113573Z"
